@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SendgridClient
+</name>
+</assembly>
+<members>
+<member name="E:SendgridClient.clsBinding.SortEvent">
+	<summary>
+ Indicates that one or more items in the collection have changed.
+ </summary>
+</member><member name="P:SendgridClient.clsBinding.SupportsChangeNotification">
+ Returns True to indicate that we support change notification by
+ raising the
+
+</member><member name="P:SendgridClient.clsBinding.AllowNew">
+ Returns True to indicate that we support automatic addition
+ of new line item objects to the collection.
+
+</member><member name="P:SendgridClient.clsBinding.AllowEdit">
+ Returns True to indicate that we allow in-place editing of
+ line item objects.
+
+</member><member name="P:SendgridClient.clsBinding.AllowRemove">
+ Returns True to indicate that we support automatic removal
+ of line item objects from the collection.
+
+</member><member name="M:SendgridClient.clsBinding.AddNew">
+ Adds a new item to the collection on request by the UI control.
+
+</member><member name="M:SendgridClient.clsBindingListBase`1.Sort(System.String)">
+ Returns True to indicate that we support change notification by
+ raising the
+
+</member><member name="P:SendgridClient.clsBindingListBase`1.IsSortedCore">
+	<summary> 
+ Return the value retained locally. Tells if the list is sorted or not. 
+ </summary>
+</member><member name="P:SendgridClient.clsBindingListBase`1.SortDirectionCore">
+	<summary> 
+ Return the value retained locally. Tells which direction the list is sorted. 
+ </summary>
+</member><member name="P:SendgridClient.clsBindingListBase`1.SortPropertyCore">
+	<summary> 
+ Return the value retained locally. Tells which property the list is sorted on. 
+ </summary>
+</member><member name="P:SendgridClient.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SendgridClient.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SendgridClient.My.Resources.Resources.icons8_Import_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SendgridClient.My.Resources.Resources.icons8_Send_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SendgridClient.My.Resources.Resources.icons8_Settings_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SendgridClient.My.Resources.Resources.icons8_Test_Partial_Passed_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SendgridClient.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
